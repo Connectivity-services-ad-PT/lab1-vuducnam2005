@@ -3,13 +3,13 @@
 ## 1. Thông tin nhóm
 
 - **Tên nhóm:** Access Gate
-- **Lớp:** FIT 4110 – API Platform & Smart Campus
+- **Lớp:** CNTT17-10
 - **Thành viên:**
   - Vũ Đức Nam 1771020484
   - Nguyễn Hữu Nhâm 1771020520
   - Trịnh Xuân Cường 1771020118
   - Tạ Minh Đức 1771020173
-- **Service nhóm phụ trách:** Access Gate Service – Dịch vụ kiểm soát cổng ra vào khuôn viên Smart Campus.
+- **Service nhóm phụ trách:** Access Gate Service – Dịch vụ kiểm soát cổng ra vào Smart Campus.
 - **Sản phẩm tổng thể của lớp:** Nền tảng Smart Campus – hệ thống quản lý khuôn viên thông minh tích hợp IoT, giám sát, kiểm soát truy cập.
 
 ---
